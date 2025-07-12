@@ -1,0 +1,16 @@
+.container{
+    height: 50vmin;
+    width: 50vmin;
+    background-color: rgb(85, 167, 167);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top:200px ;
+    margin-left: 200px;
+}
+/* button{
+    height: 5vmin;
+    width: 10vmin;
+} */
